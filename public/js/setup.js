@@ -3,6 +3,7 @@ var mymap = L.map('mapid', {
 	attributionControl: false
 }).setView([48.08, 17.06], 4);
 L.tileLayer.provider('Stamen.Watercolor').addTo(mymap);
+L.tileLayer.provider('Stamen.TonerHybrid').addTo(mymap);
 
 var anchorMarker = L.ExtraMarkers.icon({
 	icon: 'fa-anchor',
