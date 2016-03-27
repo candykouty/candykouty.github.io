@@ -109,18 +109,30 @@ var BrandenburgerTor = L.marker([52.5162746, 13.377703999999994], {
   icon: heartMarker
 }).addTo(mymap);
 
-BrandenburgerTor.bindPopup('Brandenburger Tor, najznámejšia pamiatka Berlína');
+BrandenburgerTor.bindPopup('Brandenburger Tor; najznámejšia pamiatka Berlína');
 
 var JudischesMuseumBerlin = L.marker([52.5023115, 13.395446900000024], {
   icon: heartMarker
 }).addTo(mymap);
 
-JudischesMuseumBerlin.bindPopup('Jüdisches Museum Berlin, myšlienkovo silné architektonické dielo');
+JudischesMuseumBerlin.bindPopup('Jüdisches Museum Berlin; myšlienkovo silné architektonické dielo');
 
 var Sachsenhausen = L.marker([52.78566619999999, 13.23408459999996], {
   icon: heartMarker
 }).addTo(mymap);
 
-Sachsenhausen.bindPopup('Sachsenhausen, výcvikové miesto pre veliteľov do koncentračných táborov');
+Sachsenhausen.bindPopup('Sachsenhausen; výcvikové miesto pre veliteľov do koncentračných táborov');
 
 //Praha
+
+var Megastore = L.marker([50.08413530000001, 14.424269099999947], {
+  icon: heartMarker
+}).addTo(mymap);
+
+Megastore.bindPopup('Megastore; naozaj mega dobrý hudobný obchod');
+
+var Megastore = L.marker([50.08413530000001, 14.424269099999947], {
+  icon: heartMarker
+}).addTo(mymap);
+
+Megastore.bindPopup('Megastore; naozaj mega dobrý hudobný obchod');
