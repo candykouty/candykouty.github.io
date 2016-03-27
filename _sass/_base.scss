@@ -54,6 +54,13 @@ img {
   border-radius: 5px;
 }
 
+video {
+  display: block;
+  max-width: 100%;
+  margin: auto auto 2rem;
+  border-radius: 5px;
+}
+
 img + em {
   text-align: center;
   margin: -2rem auto 2rem auto;
