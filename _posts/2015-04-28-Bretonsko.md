@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bretónsko
-category: Bretagne
+category: bretagne
 ---
 
 Utorok 28.4.2015 8:16 pán profesor Masaryk nervózne pozerá na hodinky. Za 14 minút sme mali odísť a autobusu ani pani profesorky Salaiovej nikde. Keď konečne prišla, obaja celí vysmiati nás začali hnať do pristaveného autobusu. To bohužiaľ ešte nevedeli, čo to je cestovať vyše dňa s 27 tínedžermi.
