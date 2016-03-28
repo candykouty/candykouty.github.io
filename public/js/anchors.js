@@ -86,6 +86,8 @@ var Berlin = L.marker([52.516667, 13.383333], {
 	icon: anchorMarker
 }).addTo(mymap);
 
+Berlin.bindPopup('<a href="http://candykouty.github.io/2016/01/04/Berlin/"> Berlin </a>');
+
 // England
 
 var London = L.marker([51.507222, -0.1275], {
