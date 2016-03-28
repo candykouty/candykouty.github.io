@@ -5,6 +5,7 @@ category: bretagne
 ---
 
 Utorok 28.4.2015 8:16 pán profesor Masaryk nervózne pozerá na hodinky. Za 14 minút sme mali odísť a autobusu ani pani profesorky Salaiovej nikde. Keď konečne prišla, obaja celí vysmiati nás začali hnať do pristaveného autobusu. To bohužiaľ ešte nevedeli, čo to je cestovať vyše dňa s 27 tínedžermi. Spanie v autobuse síce znie veľmi drasticky, no vzhľadom na fakt, že sme mali autobus skoro raz taký veľký, ako sme potrebovali, to nebolo až také zlé.
+<!--more-->
 
 V stredu o tretej hodine ráno sme prišli do **Paríža**, kde sme zaparkovali na parkovisku a všetci sme povinne tri hodiny spali. Keď sme o šiestej ráno vyšli von, bola ešte tma a strašná zima. Vlastne som si veľmi neuvedomovala, že sme v Paríži. Okolo siedmej sme došli pred **Notre Dame**, kde nebolo ani živej duše, ak teda nerátam tých troch vojakov, ktorí vyzerali, že by tiež radšej ešte spali. Ale malo to svoje výhody, napríklad nám do záberu nebehali ostatní turisti. Bolo osem hodín, keď sme na slávnom **Champs-Elysées** dostali trojhodinový rozchod. Škoda len, že takmer všetky obchody otvárali o desiatej a hranolky v McDonalde nám mienili spraviť tiež až od 10:30.
 
