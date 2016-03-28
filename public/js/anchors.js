@@ -38,9 +38,13 @@
 		icon: anchorMarker
 	}).addTo(mymap);
 
+	MontSaintMichel.bindPopup('<a href="http://candykouty.github.io/2015/04/28/Bretonsko/"> Mont Saint Michel </a>');
+
 	var Santec = L.marker([48.7, -4.03], {
 		icon: anchorMarker
 	}).addTo(mymap);
+
+	Santec.bindPopup('<a href="http://candykouty.github.io/2015/04/28/Bretonsko/"> Santec </a>');
 
 	var Roscoff = L.marker([48.727222, -3.984444], {
 		icon: anchorMarker
@@ -58,6 +62,8 @@
 		icon: anchorMarker
 	}).addTo(mymap);
 
+	SaintPolDeLeon.bindPopup('<a href="http://candykouty.github.io/bretagne/"> Saint Pol De Léon </a>');
+
 	var Brest = L.marker([48.39, -4.49], {
 		icon: anchorMarker
 	}).addTo(mymap);
@@ -65,6 +71,8 @@
 	var IleDeBatz = L.marker([48.745278, -4.009722], {
 		icon: anchorMarker
 	}).addTo(mymap);
+
+	IleDeBatz.bindPopup('<a href="http://candykouty.github.io/2015/04/28/Bretonsko/"> Ile de Batz </a>');
 
 	var Carantec = L.marker([48.668611, -3.9125], {
 		icon: anchorMarker
@@ -79,6 +87,8 @@
 	var Strasbourg = L.marker([48.573392, 7.752353], {
 		icon: anchorMarker
 	}).addTo(mymap);
+
+	Strasbourg.bindPopup('<a href="http://candykouty.github.io/2015/04/28/Bretonsko/"> Strasbourg </a>');
 
 // Germany
 
