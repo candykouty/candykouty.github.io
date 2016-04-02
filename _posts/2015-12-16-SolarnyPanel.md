@@ -4,10 +4,9 @@ title: Solárny panel
 category: paris
 ---
 
-Nie že by som na seba rada priťahovala pozornosť (aj keď vlastne všetci vieme, že mi to vôbec nevadí), no pokojne som schopná dať si na hlavu 40 centimetrovú mašľu z alobalu a cestovať tak celý deň. Som nad vecou. O tom to je. Aby ste chápali, v deň, kedy som sa vracala na prázdniny na Slovensko, sme v škole točili malý videoklip na *Bad Romance* od Lady Gaga a
+Nie že by som na seba rada priťahovala pozornosť (aj keď vlastne všetci vieme, že mi to vôbec nevadí), no pokojne som schopná dať si na hlavu 40 centimetrovú mašľu z alobalu a cestovať tak celý deň. Som nad vecou. O tom to je. Aby ste chápali, v deň, kedy som sa vracala na prázdniny na Slovensko, sme v škole točili malý videoklip na *Bad Romance* od Lady Gaga a naše kostýmy
 <!--more-->
-
-naše kostýmy sa skladali prevažne z alobalových doplnkov. (Btw all thanks to *lidebide* za moju gigantickú alobalovú sukňu, kvôli ktorej sme vstávali o šiestej ráno.) Už v škole na mňa teda  pozerali divne, keď som si po nakrúcaní nechala mašľu na hlave. Ako by povedal Spirit: „*Všetky oči na mne.*“ Neriešila som. Smiala som sa. Úprimne som vlastne neplánovala cestovať takto extravagantne, ale keď sa mi spolužiaci začali smiať, že by som tak určite nebola schopná dojsť domov, povedala som im: „*Tak sa pozerajte.*“
+sa skladali prevažne z alobalových doplnkov. (Btw all thanks to *lidebide* za moju gigantickú alobalovú sukňu, kvôli ktorej sme vstávali o šiestej ráno.) Už v škole na mňa teda  pozerali divne, keď som si po nakrúcaní nechala mašľu na hlave. Ako by povedal Spirit: „*Všetky oči na mne.*“ Neriešila som. Smiala som sa. Úprimne som vlastne neplánovala cestovať takto extravagantne, ale keď sa mi spolužiaci začali smiať, že by som tak určite nebola schopná dojsť domov, povedala som im: „*Tak sa pozerajte.*“
 
 ![](https://www.dropbox.com/s/xffafnh6ldjsnpt/2015-12-18%2001.54.19%201.jpg?dl=1)
 
