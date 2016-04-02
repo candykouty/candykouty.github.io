@@ -6,7 +6,7 @@
 		icon: anchorMarker
 	}).addTo(mymap);
 
-	Paris.bindPopup('<a href="http://candykouty.github.io/paris"> Paris </a>');
+	// Paris.bindPopup('');
 
 	var Meru = L.marker([49.2367, 2.1361], {
 		icon: anchorMarker
@@ -57,7 +57,6 @@
 	var Morlaix = L.marker([48.578334, -3.826667], {
 		icon: anchorMarker
 	}).addTo(mymap);
-
 
 	var SaintPolDeLeon = L.marker([48.6861, -3.985], {
 		icon: anchorMarker
