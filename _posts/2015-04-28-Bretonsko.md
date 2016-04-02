@@ -13,7 +13,7 @@ V stredu o tretej hodine ráno sme prišli do **Paríža**, kde sme zaparkovali 
 *Photo credits: Kristína Rankovová*
 
 Keď sme na obed opustili Paríž, nevedeli sme sa dočkať, kedy prídeme do Bretónska, jedného z francúzskych regiónov. Krajina sa postupne menila, všade samé loďky a farmy s artičokami a šalotkami... vedeli sme (vďaka pani profesorke Salaiovej), že za chvíľu sme v cieli.
-Konečne sme dorazili do malého prímorského mestečka **Saint Pol de Léon** s počtom obyvateľov 7 339 a rozlohou 23,43 km², kde nás už čakali naši korešpondenti alebo „koresy“ ako to oni stále volali. Z toho slova mám doteraz nervy, keď ho počujem. A určite nie som jediná. Niektorí sme bývali priamo v Saint Pol de Léon, iní v okolitých mestečkách ako **Roscoff**, **Carantec** či **Plougoulm**. Pohostinnosť Bretóncov však nikde nechýbala.
+Konečne sme dorazili do malého prímorského mestečka **Saint Pol de Léon** s počtom obyvateľov 7 339 a rozlohou 23,43 km2, kde nás už čakali naši korešpondenti alebo „koresy“ ako to oni stále volali. Z toho slova mám doteraz nervy, keď ho počujem. A určite nie som jediná. Niektorí sme bývali priamo v Saint Pol de Léon, iní v okolitých mestečkách ako **Roscoff**, **Carantec** či **Plougoulm**. Pohostinnosť Bretóncov však nikde nechýbala.
 
 ![](https://www.dropbox.com/s/y18jsaxgpi4wrov/2015-05-09%2003.41.59%201.jpg?dl=1)
 
@@ -64,7 +64,7 @@ Posledným bodom bolo 12 hodín v **Štrasburgu**, ktorý sa nachádza vo Franc�
 ![](https://www.dropbox.com/s/j84gravm2mriekl/2016-03-28%2010.56.32%201.jpg?dl=1)
 
 Náš 11-dňový výlet sme zakončili spoločnou alsaskou večerou. Pani profesorka Salaiová i pán profesor Masaryk zorganizovali túto (na našej škole prvú) slovensko-francúzsku výmenu, ktorá prebiehala prevažne v anglickom jazyku, úplne úžasne. Všetci im ďakujeme, že sme si vďaka nim vytvorili nové priateľstvá, spoznali inú kultúru, bla bla bla...
-Na záver už len jedno výstižné bretónske príslovie: ***An hini ne vez ket joa doc’htoñ pa erru a vez joa doc’htoñ pa ya kuit.*** (Kto nespraví radosť tým, že príde, spraví ju tým, že odíde.)
+Na záver už len jedno výstižné bretónske príslovie: ** *An hini ne vez ket joa doc’htoñ pa erru a vez joa doc’htoñ pa ya kuit*. ** (Kto nespraví radosť tým, že príde, spraví ju tým, že odíde.)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EndHLp6sfYc" frameborder="0" allowfullscreen></iframe>
 
