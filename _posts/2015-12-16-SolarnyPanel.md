@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solárny panel
-category: Paris
+category: paris
 ---
 
 Nie že by som na seba rada priťahovala pozornosť (aj keď vlastne všetci vieme, že mi to vôbec nevadí), no pokojne som schopná dať si na hlavu 40 centimetrovú mašľu z alobalu a cestovať tak celý deň.
